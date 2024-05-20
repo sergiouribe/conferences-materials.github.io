@@ -30,7 +30,21 @@
 * [Paperpal](https://paperpal.com/): Manuscript checker.
 * [Elicit](https://elicit.com/): Research AI search engine.
 
-## Suggested Readings
+### Example Project Open Data Sharing
+
+[Crystal Lewis example](https://osf.io/59gte/)
+
+Example: [Survey research](https://zenodo.org/records/10605383) 1
+
+Example: [Survey research](https://zenodo.org/records/8074534) 2
+
+Example: [Clinical trial dataset](https://zenodo.org/records/7677435)
+
+Example: [Raw dataset and code](https://zenodo.org/records/6460190)
+
+More examples: [RSU Dataverse](https://dataverse.rsu.lv/dataverse/rsu/?q=uribe)
+
+### Suggested Readings
 
 * [Data organization in spreadsheets](https://peerj.com/preprints/3183v1/).
 * [How to Share Data for Collaboration](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375987).
