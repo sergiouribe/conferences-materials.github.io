@@ -58,3 +58,37 @@ Here I will post some short reviews of the books I have read and own about data 
 * [Statistics for Biologists](https://www.librarything.com/work/992402/book/137835111) [Campbell](https://www.librarything.com/authorlink.php?book=137835111)
 * [Biostatistics for Oral Healthcare](https://www.librarything.com/work/5455317/book/30877680) [Jay Kim](https://www.librarything.com/authorlink.php?book=30877680)
 * [Statistics in Dentistry](https://www.librarything.com/work/4840142/book/26467212) [John Bulman](https://www.librarything.com/authorlink.php?book=26467212)
+
+<figure><img src=".gitbook/assets/IMG_20230813_112103.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/IMG_20230814_090711.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/IMG_20230814_090734.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/IMG_20230814_090759.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/IMG_20230814_090827.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/IMG_20230814_090832.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/IMG_20230814_090846.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/IMG_20230814_090921.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/IMG_20230814_090945.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/IMG_20230814_091038.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/IMG_20230817_123904.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/IMG_20230817_123937.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/IMG_20230817_123955.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/IMG_20230817_124009.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/IMG_20230817_124019.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/IMG_20240521_091818.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/IMG_20240521_091824.jpg" alt=""><figcaption></figcaption></figure>
