@@ -92,3 +92,7 @@ Here I will post some short reviews of the books I have read and own about data 
 <figure><img src=".gitbook/assets/IMG_20240521_091818.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/IMG_20240521_091824.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/IMG_20240522_153804.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/IMG_20240522_153812.jpg" alt=""><figcaption></figcaption></figure>
