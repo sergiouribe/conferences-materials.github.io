@@ -3,8 +3,8 @@
 ## LZSA Research Conference: Introduction to Research for Health Students
 
 * Sergio Uribe, DDS, MSc, PhD. - [Associate Professor and Lead Researcher, Dept of Conservative Dentistry and Oral Health, Riga Stradins University, Riga, Latvia](https://science.rsu.lv/en/persons/sergio-e-uribe)
-* Associate Editor Journal of Dental Research
-* More info: https://www.sergiouri.be/ - Twitter: [sergiouribe](https://twitter.com/sergiouribe)
+* Associate Editor [Journal of Dental Research](https://journals.sagepub.com/home/jdr)
+* More info: [https://www.sergiouri.be/](https://www.sergiouri.be/) - Twitter: [sergiouribe](https://twitter.com/sergiouribe)
 
 ### The research question
 
@@ -13,13 +13,12 @@
 ### Search
 
 * [PubMed](https://www.google.com/url?q=https://pubmed.ncbi.nlm.nih.gov/\&sa=D\&source=editors\&ust=1715695049771138\&usg=AOvVaw0\_0pyrk5ZMQ2Sp0GtW1aG3) (master this and you are done:  [What is in PubMed?](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DCTLHITWD2hA%26list%3DPL7dF9e2qSW0YkmxDTsUG6p4hJjYOPT0Uj\&sa=D\&source=editors\&ust=1715695049771366\&usg=AOvVaw0jr3d9eZRwqSAiZrlbsbdN))
-* AI Search [Elicit](https://www.google.com/url?q=https://elicit.com/\&sa=D\&source=editors\&ust=1715695049771723\&usg=AOvVaw05ud\_CB2INLq4LuMtTbwdm) ($)
-* AI Search [Consensus](https://www.google.com/url?q=https://consensus.app/\&sa=D\&source=editors\&ust=1715695049771997\&usg=AOvVaw387moqaHnc5Nq2i904VQ06) ($)
+* AI Search Tools:  [Elicit](https://www.google.com/url?q=https://elicit.com/\&sa=D\&source=editors\&ust=1715695049771723\&usg=AOvVaw05ud\_CB2INLq4LuMtTbwdm) ($) -  [Consensus](https://www.google.com/url?q=https://consensus.app/\&sa=D\&source=editors\&ust=1715695049771997\&usg=AOvVaw387moqaHnc5Nq2i904VQ06) ($)
 * [Many short videos with tips and AI tools for research](https://www.google.com/url?q=https://www.youtube.com/results?search\_query%3Dsearch%2Bai%2Bresearch%2Bstapleton\&sa=D\&source=editors\&ust=1715695049772208\&usg=AOvVaw1uKPzZo3HWZKuh1buGDNDw)
 
 ### Read Dental Research
 
-* Creating the reading habit: Méndez, M., 2018. [Ten simple rules for developing good reading habits during graduate school and beyond.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006467) PLoS Comput. Biol. 14, e1006467.
+* Creating the reading habit: Méndez, M., 2018. [Ten simple rules for developing good reading habits during graduate school and beyond.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006467) _PLoS Comput. Biol._ 14, e1006467.
 * Basic: [Understanding Health Research](https://www.google.com/url?q=https://www.understandinghealthresearch.org/\&sa=D\&source=editors\&ust=1715695049772498\&usg=AOvVaw3amSvq-3b1qCMY0wUghPN5)
 * How to read any research paper: [Reporting Guidelines](https://www.google.com/url?q=https://www.equator-network.org/\&sa=D\&source=editors\&ust=1715695049772739\&usg=AOvVaw3NkHtO58Zs40NL8\_EIsG\_u)
 * Advanced: [Johns Hopkins - Introduction to Systematic Review and Meta-Analysis](https://www.google.com/url?q=https://www.coursera.org/learn/systematic-review\&sa=D\&source=editors\&ust=1715695049773063\&usg=AOvVaw0PIGkkyaZXK2ItxfvcwGjI)
@@ -45,7 +44,7 @@
 
 ### Write Dental Research
 
-* [SQUIRE](https://www.squire-statement.org/index.cfm?fuseaction=Page.ViewPage\&pageId=471)
+* [Toolkit for writing research ](https://www.equator-network.org/toolkits/writing-research/)
 * [How to write a Dental Research paper](https://www.google.com/url?q=https://www.goodreports.org/\&sa=D\&source=editors\&ust=1715695049776146\&usg=AOvVaw2zxpKU2nskQqIS8oz11\_qt)
 * [Article writing essentials (PLOS)](https://www.google.com/url?q=https://plos.org/resources/writing-center/\&sa=D\&source=editors\&ust=1715695049776361\&usg=AOvVaw2BYzFUdlzOwHHf8dhI\_94b)
 
