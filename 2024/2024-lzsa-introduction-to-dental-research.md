@@ -6,6 +6,10 @@
 * Associate Editor [Journal of Dental Research](https://journals.sagepub.com/home/jdr)
 * More info: [https://www.sergiouri.be/](https://www.sergiouri.be/) - Twitter: [sergiouribe](https://twitter.com/sergiouribe)
 
+### Deep work
+
+'Deep work' is the ability to focus without distraction on a cognitively demanding task. This book can help you focus your efforts and skills: [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport](https://www.google.com/search?q=Deep+Work%3A+Rules+for+Focused+Success+in+a+Distracted+World\&oq=Deep+Work%3A+Rules+for+Focused+Success+in+a+Distracted+World\&gs\_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEHNDIzajBqMagCALACAA\&sourceid=chrome\&ie=UTF-8)
+
 ### The research question
 
 * Start from the beginning: [The Research Question](https://www.google.com/url?q=https://docs.google.com/document/d/e/2PACX-1vTEKKYh0dpLnB6geiUz78RGXRpN2v35X2uLz72NZafWZ-R3U8etqXpHyiuaagAIJQtjblqDFdbcYbso/pub\&sa=D\&source=editors\&ust=1715695049770824\&usg=AOvVaw1\_V7gTLcRBgFjgsCQxSSUo)
@@ -28,6 +32,7 @@
 * Essential: [Data organization in spreadsheets](https://peerj.com/preprints/3183v1/) & [How to Share Data for Collaboration](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375987)
 * [Beginner - Learn | RStudio Education](https://www.google.com/url?q=https://education.rstudio.com/learn/beginner/\&sa=D\&source=editors\&ust=1715695049773372\&usg=AOvVaw11yKlSrPkr3W-NKZG84jyq) and Web Tutorials: [R Primers](https://www.google.com/url?q=https://posit.cloud/learn/recipes\&sa=D\&source=editors\&ust=1715695049773633\&usg=AOvVaw30uz9V3jarMy0kgLi-kip5)
 * Book [R for Data Science](https://www.google.com/url?q=https://r4ds.hadley.nz/\&sa=D\&source=editors\&ust=1715695049773875\&usg=AOvVaw1Ly6AECpKSQaYt2-bNaQ5l)
+* [Seeing Theory, a visual introduction to basic stats concepts](https://seeing-theory.brown.edu/)
 * Statistics analysis: [Statistics - A Full Lecture to learn Data Science](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DYm1iH8-GQOE\&sa=D\&source=editors\&ust=1715695049774150\&usg=AOvVaw3d3Jac1DZxFCnW7KFPnAmj)
 * [Learn Statistics with JASP](https://learnstatswithjasp.com/) or [Introductory Statistics for the Life and Biomedical Sciences](https://www.openintro.org/book/biostat/)
 
