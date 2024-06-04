@@ -17,7 +17,7 @@
 ### Search
 
 * [PubMed](https://www.google.com/url?q=https://pubmed.ncbi.nlm.nih.gov/\&sa=D\&source=editors\&ust=1715695049771138\&usg=AOvVaw0\_0pyrk5ZMQ2Sp0GtW1aG3) (master this and you are done:  [What is in PubMed?](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DCTLHITWD2hA%26list%3DPL7dF9e2qSW0YkmxDTsUG6p4hJjYOPT0Uj\&sa=D\&source=editors\&ust=1715695049771366\&usg=AOvVaw0jr3d9eZRwqSAiZrlbsbdN))
-* AI Search Tools:  [Elicit](https://www.google.com/url?q=https://elicit.com/\&sa=D\&source=editors\&ust=1715695049771723\&usg=AOvVaw05ud\_CB2INLq4LuMtTbwdm) ($) -  [Consensus](https://www.google.com/url?q=https://consensus.app/\&sa=D\&source=editors\&ust=1715695049771997\&usg=AOvVaw387moqaHnc5Nq2i904VQ06) ($)
+* AI Search Tools:  [Elicit](https://www.google.com/url?q=https://elicit.com/\&sa=D\&source=editors\&ust=1715695049771723\&usg=AOvVaw05ud\_CB2INLq4LuMtTbwdm) ($) -  [Consensus](https://www.google.com/url?q=https://consensus.app/\&sa=D\&source=editors\&ust=1715695049771997\&usg=AOvVaw387moqaHnc5Nq2i904VQ06) ($) and several [more](https://x.com/Artifexx/status/1797492037798723906)
 * [Many short videos with tips and AI tools for research](https://www.google.com/url?q=https://www.youtube.com/results?search\_query%3Dsearch%2Bai%2Bresearch%2Bstapleton\&sa=D\&source=editors\&ust=1715695049772208\&usg=AOvVaw1uKPzZo3HWZKuh1buGDNDw)
 
 ### Read Dental Research
