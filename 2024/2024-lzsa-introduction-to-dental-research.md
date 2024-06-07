@@ -18,6 +18,7 @@
 
 * Creating the reading habit: Méndez, M., 2018. [Ten simple rules for developing good reading habits during graduate school and beyond.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006467) _PLoS Comput. Biol._ 14, e1006467.
 * Basic: [Understanding Health Research](https://www.google.com/url?q=https://www.understandinghealthresearch.org/\&sa=D\&source=editors\&ust=1715695049772498\&usg=AOvVaw3amSvq-3b1qCMY0wUghPN5)
+* How to read the Dental literature [JADA Guide](https://jada.ada.org/content/evidencebased)
 * [The fundamentals of study design](https://paperpile.com/shared/izJ3n7)
 * How to read any research paper: [Reporting Guidelines](https://www.google.com/url?q=https://www.equator-network.org/\&sa=D\&source=editors\&ust=1715695049772739\&usg=AOvVaw3NkHtO58Zs40NL8\_EIsG\_u)
 * Advanced: [Johns Hopkins - Introduction to Systematic Review and Meta-Analysis](https://www.google.com/url?q=https://www.coursera.org/learn/systematic-review\&sa=D\&source=editors\&ust=1715695049773063\&usg=AOvVaw0PIGkkyaZXK2ItxfvcwGjI)
