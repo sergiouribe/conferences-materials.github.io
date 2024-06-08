@@ -73,6 +73,15 @@ AI courses:  [Google](https://cloud.google.com/learn/training/machinelearning-ai
 * Associate Editor [Journal of Dental Research](https://journals.sagepub.com/home/jdr)
 * More info: [https://www.sergiouri.be/](https://www.sergiouri.be/) - Twitter: [sergiouribe](https://twitter.com/sergiouribe)
 
+## Some tools I use frequently
+
+* [Reclaim](https://app.reclaim.ai/) for tasks and time management
+* [Paperpile](https://paperpile.com/app) for reference mananger
+* Google Docs for writing, using [versioning](https://support.google.com/docs/answer/190843?hl=en\&co=GENIE.Platform%3DDesktop) and [tracking changes](https://support.google.com/docs/answer/6033474?hl=en\&co=GENIE.Platform%3DDesktop)
+* [Grammarly](https://app.grammarly.com/) for grammar and orthography &#x20;
+* [A visual timer](https://www.google.com/search?q=timer+analog+visual\&sca\_esv=e7e167db3792aeb1\&udm=2\&biw=1920\&bih=927\&sxsrf=ADLYWIITbg-tMmcwXAys02nq\_odQm58rNQ%3A1717862426877\&ei=GoBkZpWWNaizwPAPhdG1iAg\&ved=0ahUKEwiVi-idsMyGAxWoGRAIHYVoDYEQ4dUDCBE\&uact=5\&oq=timer+analog+visual\&gs\_lp=Egxnd3Mtd2l6LXNlcnAiE3RpbWVyIGFuYWxvZyB2aXN1YWwyBhAAGAgYHjIGEAAYCBgeSJcOUKsHWJ4McAF4AJABAJgBfqABxQSqAQM1LjK4AQPIAQD4AQGYAgigAuAEwgIFEAAYgATCAgYQABgHGB7CAgQQABgewgIGEAAYBRgemAMAiAYBkgcDNS4zoAf5DQ\&sclient=gws-wiz-serp)
+* [Focus mode](https://blog.google/products/android/android-focus-mode/) on my phone from 8:00-13:00 and 14:00-18:00
+
 ## Contents
 
 ### Abstract
@@ -89,7 +98,7 @@ We will discuss:
 
 #### Tools for searching and planning research
 
-* Various tools and resources available for conducting a thorough literature search, including databases, search engines, and AI
+* Various tools and resources are available for conducting a thorough literature search, including databases, search engines, and AI
 * Developing a research plan
   * Ensuring alignment between the research question and study design
   * Developing a data collection plan
