@@ -1,5 +1,9 @@
 # 2024 ORCA AI in Dental Research
 
+## Guidelines for Researchers
+
+{% embed url="https://research-and-innovation.ec.europa.eu/document/download/edc8027b-2811-4347-82f4-fa8b29ece534_en?filename=ec_rtd_ai-guidelines-factsheet.pdf" %}
+
 ## Download
 
 [The global prevalence of early childhood caries: A systematic review with meta-analysis using the WHO diagnostic criteria](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ipd.12783)
@@ -35,6 +39,8 @@
 #### Edit and Check
 
 {% embed url="https://paperpal.com/" %}
+
+##
 
 ## Text to copy and use for the editing exercise
 
