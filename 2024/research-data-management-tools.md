@@ -46,3 +46,4 @@
 * [Utrecht University: Open Science](https://www.uu.nl/en/research/open-science).
 * [Naming things](https://datamgmtinedresearch.com/style).
 * [The FAIR Cookbook](https://faircookbook.elixir-europe.org/content/home.html)
+* [Data Management in Large-Scale Education Research](https://datamgmtinedresearch.com/)
