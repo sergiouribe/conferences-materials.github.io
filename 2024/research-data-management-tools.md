@@ -26,7 +26,7 @@
 ## Tools
 
 * [Paperpile](https://paperpile.com/app): Reference Manager (free alternative: [Zotero](https://www.zotero.org/)).
-* [RSU Dataverse](https://dataverse.rsu.lv/): RSU Institutional data repository (alternative: Zenodo).
+* [RSU Dataverse](https://dataverse.rsu.lv/): RSU Institutional data repository (alternative: [Zenodo](https://zenodo.org/) \[Horizon compliant]).
 * [Paperpal](https://paperpal.com/): Manuscript checker.
 * [Elicit](https://elicit.com/): Research AI search engine.
 
@@ -45,3 +45,4 @@
 * [How to Share Data for Collaboration](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375987).
 * [Utrecht University: Open Science](https://www.uu.nl/en/research/open-science).
 * [Naming things](https://datamgmtinedresearch.com/style).
+* [The FAIR Cookbook](https://faircookbook.elixir-europe.org/content/home.html)
