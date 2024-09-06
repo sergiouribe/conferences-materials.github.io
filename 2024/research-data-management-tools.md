@@ -2,7 +2,7 @@
 
 **Contact:** [Sergio Uribe](https://science.rsu.lv/en/persons/sergio-e-uribe)\
 **Email:** [sergio.uribe@rsu.lv](mailto:sergio.uribe@rsu.lv)\
-**Date:** 24 Apr 2024
+**Date:** 24 Apr 2024 **Updated:** 6 Sept 2024
 
 ## Slides
 
