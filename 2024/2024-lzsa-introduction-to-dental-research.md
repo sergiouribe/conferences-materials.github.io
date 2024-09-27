@@ -1,4 +1,4 @@
-# 2024 LZSA Introduction to Dental Research
+# LZSA Introduction to Dental Research
 
 ### Deep work
 

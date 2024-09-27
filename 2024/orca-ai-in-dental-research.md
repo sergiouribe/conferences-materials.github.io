@@ -1,4 +1,8 @@
-# 2024 ORCA AI in Dental Research
+---
+description: ORCA Meeting, Heraklion, Crete, Greece
+---
+
+# ORCA AI in Dental Research
 
 ## Guidelines for Researchers
 
