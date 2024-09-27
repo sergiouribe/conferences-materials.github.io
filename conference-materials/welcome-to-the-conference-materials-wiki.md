@@ -8,10 +8,8 @@ This wiki is a centralized repository for all materials, presentations, and disc
 
 ## About me
 
-I am Sergio Uribe (DDS, MSc, and PhD), Associate Professor at [Riga Stradins University](https://science.rsu.lv/en/persons/sergio-e-uribe) in Riga, Latvia.
+I am Sergio Uribe (DDS, MSc, and PhD), Associate Professor at [Riga Stradins University](https://science.rsu.lv/en/persons/sergio-e-uribe) in Riga, Latvia, and Visiting Professor at LMU Munich, Ger.
 
 
 
-### Old WIki
-
-[https://uribe.wiki/doku.php?id=start](https://uribe.wiki/doku.php?id=start)
+###
