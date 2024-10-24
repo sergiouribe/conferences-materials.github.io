@@ -26,6 +26,10 @@ Available [here](https://docs.google.com/presentation/d/13UYzuMSnu5zaVZOZQgV8DOv
 
 [RSU Research Data Management](https://www.rsu.lv/en/research/research-data-management)
 
+### Example Data Folder
+
+[Example Project Open Data Sharing](https://osf.io/59gte/)
+
 ### Packages
 
 * [dataMaid](https://ekstroem.github.io/dataMaid/reference/makeCodebook.html) for Codebook creation
