@@ -8,5 +8,6 @@
   * [ORCA AI in Dental Research](2024/orca-ai-in-dental-research.md)
   * [AI and Generative AI in Dental Education](2024/ai-and-generative-ai-in-dental-education.md)
   * [Latvian Data Curators Network](2024/latvian-data-curators-network.md)
+  * [Teledentistry](2024/teledentistry.md)
 * [Data Analysis Reading List](data-analysis-reading-list.md)
 * [Data Science Books Reviews](data-science-books-reviews.md)
