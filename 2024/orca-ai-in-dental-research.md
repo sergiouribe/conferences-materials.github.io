@@ -1,5 +1,6 @@
 ---
 description: ORCA Meeting, Heraklion, Crete, Greece
+icon: graduation-cap
 ---
 
 # ORCA AI in Dental Research
