@@ -1,3 +1,7 @@
+---
+icon: database
+---
+
 # Research Data Management Tools
 
 **Contact:** [Sergio Uribe](https://science.rsu.lv/en/persons/sergio-e-uribe)\
