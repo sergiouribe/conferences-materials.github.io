@@ -1,3 +1,7 @@
+---
+icon: book-bookmark
+---
+
 # LZSA Introduction to Dental Research
 
 ### Deep work
