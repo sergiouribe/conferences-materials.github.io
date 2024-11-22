@@ -2,6 +2,7 @@
 description: >-
   Event: World Congress Dental Meeting - International Dental Federation (FDI)
   Location: Istanbul, September 2024
+icon: graduation-cap
 ---
 
 # AI and Generative AI in Dental Education
