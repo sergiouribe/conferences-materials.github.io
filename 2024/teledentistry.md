@@ -1,5 +1,6 @@
 ---
-description: OMB, Lisbon. Nov 2024
+description: OMD, Lisbon. Nov 2024
+icon: tooth
 ---
 
 # Teledentistry
