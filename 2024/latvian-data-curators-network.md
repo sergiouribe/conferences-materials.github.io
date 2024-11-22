@@ -1,5 +1,6 @@
 ---
 description: 2024-09-27 online
+icon: database
 ---
 
 # Latvian Data Curators Network
