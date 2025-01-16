@@ -10,6 +10,6 @@
   * [Latvian Data Curators Network](2024/latvian-data-curators-network.md)
   * [Teledentistry](2024/teledentistry.md)
 * [2025](2025/README.md)
-  * [Charla AI Hospital Pereria - Ene 2025](2025/charla-ai-hospital-pereria-ene-2025.md)
+  * [Charla AI Hospital Pereira - Valparaíso - Ene 2025](2025/charla-ai-hospital-pereira-valparaiso-ene-2025.md)
 * [Data Analysis Reading List](data-analysis-reading-list.md)
 * [Data Science Books Reviews](data-science-books-reviews.md)

@@ -1,4 +1,4 @@
-# Charla AI Hospital Pereria - Ene 2025
+# Charla AI Hospital Pereira - Valparaíso - Ene 2025
 
 ### Publications
 
