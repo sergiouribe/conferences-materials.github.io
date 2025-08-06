@@ -29,7 +29,7 @@
 * Altman
 * Gotelli
 * Kirkwood
-* [Biostatistics: The Bare Essentials by Geoffrey R. Norman and David L. Streiner](https://www.amazon.com/Biostatistics-Bare-Essentials-3-SPSS/dp/1550094009/ref=sr\_1\_3?s=books\&ie=UTF8\&qid=1520042302\&sr=1-3)
+* [Biostatistics: The Bare Essentials by Geoffrey R. Norman and David L. Streiner](https://www.amazon.com/Biostatistics-Bare-Essentials-3-SPSS/dp/1550094009/ref=sr_1_3?s=books\&ie=UTF8\&qid=1520042302\&sr=1-3)
 
 ### Advanced
 
@@ -37,6 +37,7 @@
 
 ## YouTube Videos
 
-* https://www.youtube.com/watch?v=OJt-k9h9pmk\&list=PLRKtJ4IpxJpBxX2S9wXJUhB1\_ha3ADFpF
-* https://www.youtube.com/watch?v=FdnMWdICdRs\&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus
-* https://www.youtube.com/watch?v=l-DHzZmZU4w\&list=PLPWcjtBkAf6kKJhii6q8HOSqD2bqFO5NR
+* [Stat Thinking - 001 - What is statistics?](https://www.youtube.com/watch?v=OJt-k9h9pmk\&list=PLRKtJ4IpxJpBxX2S9wXJUhB1_ha3ADFpF)
+* [Introduction to statistics: The (small) Big Picture or how to solve 95% of statistical problems](https://www.youtube.com/watch?v=l-DHzZmZU4w\&list=PLPWcjtBkAf6kKJhii6q8HOSqD2bqFO5NR)
+* [Statistical Rethinking 2023 - 01 - The Golem of Prague](https://www.youtube.com/watch?v=FdnMWdICdRs\&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)
+
