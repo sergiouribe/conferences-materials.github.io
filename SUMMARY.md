@@ -12,5 +12,3 @@
 * [2025](2025/README.md)
   * [Charla AI Hospital Pereira - Valparaíso - Ene 2025](2025/charla-ai-hospital-pereira-valparaiso-ene-2025.md)
   * [Economic Analysis Latvia](2025/economic-analysis-latvia.md)
-* [Data Analysis Reading List](data-analysis-reading-list.md)
-* [Data Science Books Reviews](data-science-books-reviews.md)
